@@ -1,4 +1,3 @@
-
 ---
 name: financial-market-research
 description: Research Bitcoin, silver, macroeconomic developments, financial news, and market sentiment using verified sources. Produce evidence-based financial research reports.
